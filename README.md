@@ -3,11 +3,11 @@ Neural Language Processing, as improvement upon L2R model
 
 -------------------------
 ### FastText python documentation:
-Link : https://fasttext.cc/docs/en/python-module.html
+### Link : https://fasttext.cc/docs/en/python-module.html
 -------------------------
 
 ### Draft Report Link
-Link : https://docs.google.com/document/d/1N4kTjDEV8PV4ysi-sn-qclZOHjj--DSor2WZwAidXj4/edit?usp=sharing
+### Link : https://docs.google.com/document/d/1N4kTjDEV8PV4ysi-sn-qclZOHjj--DSor2WZwAidXj4/edit?usp=sharing
 -------------------------
 
 Planning :
