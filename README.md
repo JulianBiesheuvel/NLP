@@ -15,9 +15,16 @@ Planning :
 March 19 & 20 : @all look at the transformers and models/embeddings that are proposed in the project description on Brightspace
 
 - How do these work?
-  - What transformers can we use?
-  - Search the papers of the Glove and fastNet
+  - What transformers can we use? -> see Deepnote
+  - Search the papers of the Glove and fastNet -> TODO/ see readings listed on brightspace
 - Implementation?
-  - Deepnote?
+  - Deepnote? - Yes
 - External research 
 - For each question proposed for the evaluation, is it clear, and how can we integrate this into the report?
+
+
+Task Division :
+
+- Glove: Julian
+- FastText: Varnika
+- BERT: Monica
